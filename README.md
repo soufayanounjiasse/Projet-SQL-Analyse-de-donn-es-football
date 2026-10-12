@@ -16,7 +16,7 @@ Travail en binôme, rendu = **une vidéo de 5 à 6 minutes** (lien à transmettr
 | Version / taille | Version 10 – `database.sqlite` (313 Mo) |
 | Date de téléchargement | 12/10/2026 |
 | Période couverte | Saisons 2008/2009 à 2015/2016 |
-| Date limite de rendu | *(à compléter)* |
+| Date limite de rendu | *25/10/2026* |
 | Lien de la vidéo | *(à compléter après enregistrement)* |
 
 > Règle de travail : un **seul fichier `database.sqlite` de référence** (même copie pour les deux), et tous les scripts SQL sont versionnés dans ce dépôt.
