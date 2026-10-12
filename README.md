@@ -9,7 +9,7 @@ Travail en binôme, rendu = **une vidéo de 5 à 6 minutes** (lien à transmettr
 
 | Élément | Valeur |
 |---|---|
-| Membres du binôme | Soufiane / *(nom du binôme à compléter)* |
+| Membres du binôme | Soufiane / *Lassina |
 | SGBD | SQLite |
 | Base de données | European Soccer Database |
 | Source | Kaggle – https://www.kaggle.com/datasets/hugomathien/soccer |
